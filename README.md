@@ -1,4 +1,4 @@
-# explorations-with-gemini
+# Whatsapp Bot that runs on Gemini Pro API
 Integratin Google's Gemini API with Whatsapp Business Cloud API via Nodejs.
 ### Installation
 `npm i ` to install all dependencies. 
